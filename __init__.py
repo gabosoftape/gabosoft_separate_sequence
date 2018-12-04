@@ -1,1 +1,3 @@
-from . import purchase
+# -*- coding: utf-8 -*-
+
+from . import models
